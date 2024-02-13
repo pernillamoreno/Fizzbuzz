@@ -1,6 +1,5 @@
 /**
- * @file exe_1.cpp
- * @author your name (you@domain.com)
+
  * @brief Write a Makefile without using variables, functions and pattern rules to build and run the main and the test programs.
 
     There shall be a rule to clean the project.
@@ -12,9 +11,6 @@
 
 Download and extract the zip file and write the solution in Makefile.
 
- * @version 0.1
- * @date 2024-01-31
- * 
- * @copyright Copyright (c) 2024
+
  * 
  */
